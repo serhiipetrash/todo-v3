@@ -1,11 +1,11 @@
-<script setup>
-
-</script>
-
 <template>
+  <Navbar />
   <router-view />
 </template>
 
+<script setup>
+import Navbar from './components/Navbar.vue';
+</script>
 <style>
 body {
   background: #f2f2f2;
