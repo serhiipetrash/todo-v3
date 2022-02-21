@@ -15,7 +15,7 @@
     {
       "title": "design a new website COOL Edited !!!!",
       "details": "bla bla bla test test test bla bla bla test test test bla bla bla test test test bla bla bla test test test bla bla bla test test test tets",
-      "complete": true,
+      "complete": false,
       "id": 3
     },
     {
@@ -27,7 +27,7 @@
     {
       "title": "bla bla bla",
       "details": "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
-      "complete": false,
+      "complete": true,
       "id": 5
     },
     {
